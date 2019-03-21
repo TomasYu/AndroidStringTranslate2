@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,TypographyDashes">
+    <string name="exit_dialog_open_free">开启免费模式</string>
+    <string name="exit_dialog_exit">仍然退出</string>
+</resources>
